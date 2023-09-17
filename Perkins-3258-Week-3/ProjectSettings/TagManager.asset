@@ -7,6 +7,8 @@ TagManager:
   - Coins
   - Left Score
   - Right Score
+  - Leftscore
+  - Rightscore
   layers:
   - Default
   - TransparentFX
